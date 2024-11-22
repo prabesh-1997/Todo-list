@@ -1,4 +1,4 @@
-# Todo-list
-It's my first projrct.
+# Repo-Demo
+It's my first Repository.
 <br>
 Author- Prabesh Kyapchhayakee.
